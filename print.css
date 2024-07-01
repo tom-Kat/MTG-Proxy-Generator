@@ -22,8 +22,7 @@
     height: 888mm;
     page-break-inside: avoid;
     display:inline-block;
-    border-bottom: 6mm;
-    border-right: 6mm;
+    margin-right: 6mm;
   }
   
   .js-results.row {

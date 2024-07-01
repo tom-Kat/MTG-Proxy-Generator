@@ -18,7 +18,7 @@
     width: 62mm;
     height: 88mm;
     page-break-inside: avoid;
-    display:inline-block;
+    display: inline-block;
   }
   
   .js-results.row {

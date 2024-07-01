@@ -22,8 +22,8 @@
     height: 329px;
     page-break-inside: avoid;
     display:inline-block;
-    margin-right: 6mm;
-    margin-bottom: 6mm;
+    margin-right: 5mm;
+    margin-bottom: 5mm;
   }
   
   .js-results.row {

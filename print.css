@@ -13,8 +13,8 @@
     size: landscape;
     margin-top: 13mm;
     margin-left: 13mm;
-    margin-bottom: 0;
-    margin-right: 0;
+    margin-bottom: 13mm;
+    margin-right: 13mm;
   }
   
   .card-div {
@@ -22,8 +22,8 @@
     height: 329px;
     page-break-inside: avoid;
     display:inline-block;
-    border-right: 1px solid grey;
-    border-bottom: 1px solid grey;
+    margin-right: 6mm;
+    margin-bottom: 6mm;
   }
   
   .js-results.row {

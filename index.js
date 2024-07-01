@@ -50,7 +50,6 @@ function renderApplication(state) {
       showReviewScreen();
 
       STATE.deckList = [];
-      console.log(" $(".skip-basic-lands").value ");
       
       for(let i=0; i < queryList.length; i++) {
         //query ScryFall for CURRENT card

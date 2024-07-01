@@ -11,7 +11,10 @@
   
   @page {
     size: landscape;
-    margin: 13mm;
+    margin-top: 13mm;
+    margin-left: 13mm;
+    margin-right: 0mm;
+    margin-bottom: 0mm;
   }
   
   .card-div {
@@ -21,7 +24,7 @@
     display: inline-block;
     margin-top: 0mm;
     margin-left: 0mm;
-    margin-right: 3mm;
+    margin-right: 6mm;
     margin-bottom: 6mm;
   }
   

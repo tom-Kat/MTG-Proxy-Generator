@@ -92,6 +92,8 @@ function renderApplication(state) {
             //push the cards into the deckList:
             for (let j = 0; j < queryList[i].quantity; j++) {
               const myTempCard = $.extend(true, {}, card);
+              if( $(".skip-basic-lands").value === 1 )
+                console.log("test")  
               STATE.deckList.push(myTempCard);
             }
           } else {

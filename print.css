@@ -22,8 +22,8 @@
     height: 329px;
     page-break-inside: avoid;
     display:inline-block;
-    border-right: 5px;
-    border-bottom: 5px;
+    border-right: 1px;
+    border-bottom: 1px;
     
   }
   

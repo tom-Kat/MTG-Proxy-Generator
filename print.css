@@ -11,21 +11,21 @@
   
   @page {
     size: landscape;
-    margin-top: 13mm;
-    margin-left: 13mm;
+    margin-top: 10mm;
+    margin-left: 10mm;
     margin-right: 0mm;
     margin-bottom: 0mm;
   }
   
   .card-div {
-    width: 60mm;
-    height: 86mm;
+    width: 62mm;
+    height: 88mm;
     page-break-inside: avoid;
     display: inline-block;
-    margin-top: 0mm;
-    margin-left: 0mm;
-    margin-right: 6mm;
-    margin-bottom: 6mm;
+    margin-top: 3mm;
+    margin-left: 3mm;
+    margin-right: 3mm;
+    margin-bottom: 3mm;
   }
   
   .js-results.row {

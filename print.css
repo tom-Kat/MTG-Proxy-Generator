@@ -12,7 +12,7 @@
   @page {
     size: landscape;
     margin-top: 11mm;
-    margin-left: 11mm;
+    margin-left: 10mm;
     margin-right: 0mm;
     margin-bottom: 0mm;
   }
@@ -23,7 +23,7 @@
     page-break-inside: avoid;
     display: inline-block;
     margin-top: 4mm;
-    margin-left: 3mm;
+    margin-left: 4mm;
     margin-right: 4mm;
     margin-bottom: 4mm;
   }

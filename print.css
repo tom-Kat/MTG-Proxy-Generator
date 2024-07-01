@@ -20,10 +20,10 @@
   .card-div {
     width: 628mm;
     height: 888mm;
-    margin-bottom: 6mm;
-    margin-right: 6mm;
     page-break-inside: avoid;
     display:inline-block;
+    border-bottom: 6mm;
+    border-right: 6mm;
   }
   
   .js-results.row {

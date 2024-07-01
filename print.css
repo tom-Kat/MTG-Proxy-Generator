@@ -22,7 +22,7 @@
     height: 88mm;
     page-break-inside: avoid;
     display:inline-block;
-    margin: 6mm;
+    margin: 1mm;
   }
   
   .js-results.row {

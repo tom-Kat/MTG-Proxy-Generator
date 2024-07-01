@@ -22,10 +22,10 @@
     height: 87mm;
     page-break-inside: avoid;
     display: inline-block;
-    margin-top: 4mm;
-    margin-left: 4mm;
-    margin-right: 4mm;
-    margin-bottom: 4mm;
+    margin-top: 5mm;
+    margin-left: 5mm;
+    margin-right: 5mm;
+    margin-bottom: 5mm;
   }
   
   .js-results.row {

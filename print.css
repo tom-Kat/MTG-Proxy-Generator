@@ -15,10 +15,11 @@
   }
   
   .card-div {
-    width: 68mm;
+    width: 62mm;
     height: 88mm;
     page-break-inside: avoid;
     display: inline-block;
+    margin: 6mm;
   }
   
   .js-results.row {

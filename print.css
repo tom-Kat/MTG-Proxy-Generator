@@ -19,7 +19,8 @@
     height: 86mm;
     page-break-inside: avoid;
     display: inline-block;
-    margin: 5mm;
+    margin-right: 5mm;
+    margin-bottom: 5mm;
   }
   
   .js-results.row {

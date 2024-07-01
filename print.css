@@ -10,11 +10,11 @@
   }
   
   @page {
-    size: auto;
-    margin-top: 13mm;
-    margin-left: 13mm;
-    margin-bottom: 10mm;
-    margin-right: 10mm;
+    size: landscape;
+    margin-top: 0.25in;
+    margin-left: 0.15in;
+    margin-bottom: 0;
+    margin-right: 0;
   }
   
   .card-div {

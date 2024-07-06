@@ -18,14 +18,14 @@
   }
   
   .card-div {
-    width: 63mm;
-    height: 89.5mm;
+    width: 64mm;
+    height: 91mm;
     page-break-inside: avoid;
     display: inline-block;
     margin-top: 3mm;
     margin-left: 3mm;
-    margin-right: 3mm;
-    margin-bottom: 3mm;
+    margin-right: 2mm;
+    margin-bottom: 2mm;
   }
   
   .js-results.row {

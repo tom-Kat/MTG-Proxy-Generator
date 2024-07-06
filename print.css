@@ -18,7 +18,7 @@
   }
   
   .card-div {
-    width: 65.5mm;
+    width: 65mm;
     height: 93mm;
     page-break-inside: avoid;
     display: inline-block;
